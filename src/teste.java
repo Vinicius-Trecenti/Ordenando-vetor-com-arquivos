@@ -29,6 +29,7 @@ public class teste{
         arquivo.gerar_vetor(retorno);
 
         //ler os arquivos
+        
         //ordenar os a
 
     }
