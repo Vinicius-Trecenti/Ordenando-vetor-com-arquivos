@@ -60,7 +60,7 @@ public class Arquivos {
             BufferedWriter bufferWriter = new BufferedWriter(writer);
 
             for (int number : vector) {
-                bufferWriter.append(number + ",");
+                bufferWriter.append(number + "\n");
             }
 
             bufferWriter.close();

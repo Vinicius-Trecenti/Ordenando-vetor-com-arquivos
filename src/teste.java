@@ -25,7 +25,11 @@ public class teste{
    
         System.out.println(retorno);
 
+        //escrevendo nos arquivos 
         arquivo.gerar_vetor(retorno);
+
+        //ler os arquivos
+        //ordenar os a
 
     }
 }
